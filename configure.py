@@ -16,7 +16,7 @@ LOCAL_ENV = {
     'TON_API_JSON_RPC_ENABLED': '1',
     'TON_API_ROOT_PATH': '/',
     'TON_API_WEBSERVERS_WORKERS': '1',
-    'TON_API_TONLIB_LITESERVER_CONFIG': 'private/mainnet.json',
+    'TON_API_TONLIB_LITESERVER_CONFIG': 'private/testnet.json',
     'TON_API_TONLIB_KEYSTORE': '/tmp/ton_keystore/',
     'TON_API_TONLIB_PARALLEL_REQUESTS_PER_LITESERVER': '50',
     'TON_API_TONLIB_CDLL_PATH': '',
